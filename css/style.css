@@ -511,7 +511,7 @@ ul, ol {
     margin-top: -20px; /* Adjust the margin to control the vertical spacing */
 	font-size: 70px;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-	margin-left: -100px;
+
 }
 .hero-title {
     text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
@@ -539,7 +539,7 @@ ul, ol {
     color: hsl(0, 100%, 100%);
     line-height: 28px;
     margin-bottom: 35px;
-    margin-left: -100px;
+  
     font-weight: bold; /* Adding font-weight to make the text bold */
 }
 
